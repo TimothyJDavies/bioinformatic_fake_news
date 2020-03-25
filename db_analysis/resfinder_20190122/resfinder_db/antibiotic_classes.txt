@@ -1,0 +1,18 @@
+# Class	Antibiotics
+Aminoglycoside	Gentamicin	Tobramycin	Streptomycin	Amikacin
+Fluoroquinolone	Ciprofloxacin	Nalidixic acid
+Beta-lactam	Amoxicillin	Amoxicillin+Clavulanic acid	Ampicillin	Ampicillin+Clavulanic acid	Aztreonam	Cefepime	Cefixime	Cefotaxime	Cefotaxime+Clavulanic acid	Cefoxitin	Ceftazidime	Ceftazidime+Avibactam	Ceftriaxone	Cefuroxime	Cephalothin	Ertapenem	Imipenem	Meropenem	Penicillin	Piperacillin	Piperacillin+Tazobactam	Temocillin	Ticarcillin	Ticarcillin+Clavulanic acid
+Folate pathway antagonist	Sulfamethoxazole	Trimethoprim
+Fosfomycin	Fosfomycin
+Glycopeptide	Vancomycin	Teicoplanin
+Lincosamide	Lincomycin	Clindamycin
+Streptogramin A	Dalfopristin	Pristinamycin IIA	Virginiamycin M
+Pleuromutilin	Tiamulin
+Macrolide	Carbomycin	Azithromycin	Oleandomycin	Spiramycin	Tylosin	Telithromycin
+Tetracycline	Tetracycline	Doxycycline	Minocycline	Tigecycline
+Streptogramin B	Quinupristin	Pristinamycin IA	Virginiamycin S
+Phenicol	Chloramphenicol	Florfenicol
+Pleuromutilin	Tiamulin
+Polymyxin	Colistin
+Oxazolidinone	Linezolid
+Aminocyclitol	Spectinomycin

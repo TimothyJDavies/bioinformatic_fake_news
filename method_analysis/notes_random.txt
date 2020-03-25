@@ -1,0 +1,7 @@
+This file contains things I note as I go through the analysis but don't keep in the main code
+
+First bit, looking at the differences in numbers between this and and the poster I note a few updates
+Firstly there appears to have been some curation performed so SRST2 now works marginally better, that said it seems to cause issues for assemblers
+StrA and strB genes appear to have been renamed to fit in with the rest of the aminoglycoside nomenclature
+There is a new QNR issue
+

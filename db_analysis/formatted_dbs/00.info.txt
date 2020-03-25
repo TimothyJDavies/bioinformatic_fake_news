@@ -1,0 +1,3 @@
+input fasta file:	resfinder_20191001_formatted.fasta
+input tsv file:	ariba_db/00.auto_metadata.tsv
+genetic_code	11
