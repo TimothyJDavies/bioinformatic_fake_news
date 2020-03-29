@@ -3,3 +3,6 @@ db_analysis/formatting_old_resfinder_dbs.ipynb
 method_analysis/result_tarballs/resfinderfull_20191001_abricate/*
 method_analysis/result_tarballs/resfinderfull_20191001_srst2/*
 method_analysis/result_tarballs/resfinderfull_20191001_kmerres/*
+method_analysis/result_tarballs/resfinder_20190122_abricate/*
+method_analysis/result_tarballs/resfinder_20190122_srst2/*
+method_analysis/result_tarballs/resfinder_20190122_kmerres/*
