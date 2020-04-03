@@ -19,7 +19,7 @@ This folder includes several files: The prepared databases (resfinder_20191001_f
 **Primary notebook: method_related.ipynb**
 
 ##### Tasks in Notebook
-
+Test
 
 ##### Additional Elements
 
