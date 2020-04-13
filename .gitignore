@@ -1,14 +1,5 @@
 tim_specific_code/*
 db_analysis/formatting_old_resfinder_dbs.ipynb 
-method_analysis/result_tarballs/resfinderfull_20191001_abricate/*
-method_analysis/result_tarballs/resfinderfull_20191001_srst2/*
-method_analysis/result_tarballs/resfinderfull_20191001_kmerres/*
-method_analysis/result_tarballs/resfinder_20190122_abricate/*
-method_analysis/result_tarballs/resfinder_20190122_srst2/*
-method_analysis/result_tarballs/resfinder_20190122_kmerres/*
-method_analysis/result_tarballs/card_20191023_abricate/*
-method_analysis/result_tarballs/card_20191023_srst2/*
-method_analysis/result_tarballs/card_20191023_kmerres/*
 method_analysis/result_tarballs/resfinderfull_20191001/*
 method_analysis/result_tarballs/resfinderblm_20191001/*
 method_analysis/result_tarballs/resfinderami_20191001/*
@@ -19,3 +10,5 @@ method_analysis/result_tarballs/resfinder_20190122/*
 method_analysis/result_tarballs/resfinder_20180122/*
 method_analysis/result_tarballs/resfinder_20170126/*
 method_analysis/result_tarballs/card_20191023/*
+db_analysis/db_comparison_result_tarballs/resfinder_results/*
+db_analysis/db_comparison_result_tarballs/card_results/*
