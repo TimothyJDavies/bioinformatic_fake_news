@@ -1,0 +1,3 @@
+Note for this folder, the files subfiles are all totally artificial and are only really here to make the code work!
+I have transposed the subfiles from the resfinder_20191001 db
+ 
