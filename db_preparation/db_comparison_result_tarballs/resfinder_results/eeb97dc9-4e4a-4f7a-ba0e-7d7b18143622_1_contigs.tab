@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+eeb97dc9-4e4a-4f7a-ba0e-7d7b18143622_1_contigs.fa	NODE_18_length_87046_cov_42.493521	44624	45856	resfindernewid_2564	1-1233/1233	===============	0/0	100.00	99.92	resfinderformatted	002564	resfinderformatted~~~resfindernewid_2564~~~002564
+eeb97dc9-4e4a-4f7a-ba0e-7d7b18143622_1_contigs.fa	NODE_4_length_283675_cov_44.308768	231647	232002	resfindernewid_2855	66-421/465	.=======/=====.	2/2	76.34	75.35	resfinderformatted	002855	resfinderformatted~~~resfindernewid_2855~~~002855
