@@ -1,0 +1,15 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+.	.	.	.	1024	90	adk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+fumC.1012	fumC.1012	0	0	531	276	fumC	469	469	99.15	fumC.l15.c30.ctg.1	1467	28.1	0	.	n	.	0	A206G	SNP	206	206	A	687	687	G	47	G	44	.	.
+fumC.1012	fumC.1012	0	0	531	276	fumC	469	469	99.15	fumC.l15.c30.ctg.1	1467	28.1	0	.	n	.	0	A278G	SNP	278	278	A	759	759	G	51	G	48	.	.
+fumC.1012	fumC.1012	0	0	531	276	fumC	469	469	99.15	fumC.l15.c30.ctg.1	1467	28.1	0	.	n	.	0	G281A	SNP	281	281	G	762	762	A	48	A	45	.	.
+fumC.1012	fumC.1012	0	0	531	276	fumC	469	469	99.15	fumC.l15.c30.ctg.1	1467	28.1	0	.	n	.	0	A317G	SNP	317	317	A	798	798	G	47	G	45	.	.
+gyrB.193	gyrB.193	0	0	19	416	gyrB	460	460	100.0	gyrB.l15.c30.ctg.1	1558	40.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+icd.804	icd.804	0	0	531	380	icd	518	518	99.42	icd.l15.c30.ctg.1	1724	33.3	0	.	n	.	0	T223C	SNP	223	223	T	761	761	C	67	C	61	.	.
+icd.804	icd.804	0	0	531	380	icd	518	518	99.42	icd.l15.c30.ctg.1	1724	33.3	0	.	n	.	0	T226C	SNP	226	226	T	764	764	C	64	C	61	.	.
+icd.804	icd.804	0	0	531	380	icd	518	518	99.42	icd.l15.c30.ctg.1	1724	33.3	0	.	n	.	0	G379C	SNP	379	379	G	917	917	C	86	C	80	.	.
+mdh.636	mdh.636	0	0	531	440	mdh	452	452	99.56	mdh.l15.c4.ctg.1	1351	48.4	0	.	n	.	0	C150T	SNP	150	150	C	667	667	T	90	T	86	.	.
+mdh.636	mdh.636	0	0	531	440	mdh	452	452	99.56	mdh.l15.c4.ctg.1	1351	48.4	0	.	n	.	0	G246T	SNP	246	246	G	763	763	T	79	T	74	.	.
+purA.561	purA.561	0	0	531	412	purA	478	478	99.58	purA.l15.c30.ctg.1	1623	38.1	0	.	n	.	0	T101C	SNP	101	101	T	572	572	C	73	C	66	.	.
+purA.561	purA.561	0	0	531	412	purA	478	478	99.58	purA.l15.c30.ctg.1	1623	38.1	0	.	n	.	0	C174T	SNP	174	174	C	645	645	T	70	T	63	.	.
+recA.142	recA.142	0	0	19	478	recA	510	510	100.0	recA.l15.c30.ctg.1	1554	46.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.

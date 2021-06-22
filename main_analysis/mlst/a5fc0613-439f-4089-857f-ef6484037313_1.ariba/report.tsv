@@ -1,0 +1,16 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+fumC.1012	fumC.1012	0	0	531	342	fumC	469	469	99.57	fumC.l6.c4.ctg.1	1624	31.4	0	.	n	.	0	A278G	SNP	278	278	A	863	863	G	71	G	68	.	.
+fumC.1012	fumC.1012	0	0	531	342	fumC	469	469	99.57	fumC.l6.c4.ctg.1	1624	31.4	0	.	n	.	0	A317G	SNP	317	317	A	902	902	G	67	G	64	.	.
+gyrB.193	gyrB.193	0	0	531	304	gyrB	460	460	98.48	gyrB.l15.c17.ctg.1	1677	27.2	0	.	n	.	0	C258A	SNP	258	258	C	656	656	A	65	A,C	61,1	.	.
+gyrB.193	gyrB.193	0	0	531	304	gyrB	460	460	98.48	gyrB.l15.c17.ctg.1	1677	27.2	0	.	n	.	0	C261G	SNP	261	261	C	659	659	G	65	G,C	62,1	.	.
+gyrB.193	gyrB.193	0	0	531	304	gyrB	460	460	98.48	gyrB.l15.c17.ctg.1	1677	27.2	0	.	n	.	0	C303T	SNP	303	303	C	701	701	T	69	T	65	.	.
+gyrB.193	gyrB.193	0	0	531	304	gyrB	460	460	98.48	gyrB.l15.c17.ctg.1	1677	27.2	0	.	n	.	0	C372T	SNP	372	372	C	770	770	T	68	T	65	.	.
+gyrB.193	gyrB.193	0	0	531	304	gyrB	460	460	98.48	gyrB.l15.c17.ctg.1	1677	27.2	0	.	n	.	0	T381C	SNP	381	381	T	779	779	C	69	C	68	.	.
+gyrB.193	gyrB.193	0	0	531	304	gyrB	460	460	98.48	gyrB.l15.c17.ctg.1	1677	27.2	0	.	n	.	0	C426G	SNP	426	426	C	824	824	G	77	G	72	.	.
+gyrB.193	gyrB.193	0	0	531	304	gyrB	460	460	98.48	gyrB.l15.c17.ctg.1	1677	27.2	0	.	n	.	0	C444T	SNP	444	444	C	842	842	T	73	T	62	.	.
+icd.507	icd.507	0	0	531	392	icd	518	518	99.42	icd.l15.c4.ctg.1	1710	34.5	0	.	n	.	0	G280A	SNP	280	280	G	813	813	A	70	A	67	.	.
+icd.507	icd.507	0	0	531	392	icd	518	518	99.42	icd.l15.c4.ctg.1	1710	34.5	0	.	n	.	0	C337G	SNP	337	337	C	870	870	G	69	G	68	.	.
+icd.507	icd.507	0	0	531	392	icd	518	518	99.42	icd.l15.c4.ctg.1	1710	34.5	0	.	n	.	0	G484T	SNP	484	484	G	1017	1017	T	62	T	61	.	.
+mdh.636	mdh.636	0	0	531	418	mdh	452	452	99.78	mdh.l15.c4.ctg.1	1648	38.1	0	.	n	.	0	T402C	SNP	402	402	T	953	953	C	80	C	77	.	.
+purA.160	purA.160	0	0	19	460	purA	478	478	100.0	purA.l15.c4.ctg.1	1874	36.9	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+recA.142	recA.142	0	0	19	352	recA	510	510	100.0	recA.l6.c17.ctg.1	1583	32.9	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.

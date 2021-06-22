@@ -1,0 +1,16 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	322	fumC	469	469	99.15	fumC.l15.c4.ctg.1	1866	25.9	0	.	n	.	0	A206G	SNP	206	206	A	891	891	G	55	G	53	.	.
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	322	fumC	469	469	99.15	fumC.l15.c4.ctg.1	1866	25.9	0	.	n	.	0	G251A	SNP	251	251	G	936	936	A	49	A	47	.	.
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	322	fumC	469	469	99.15	fumC.l15.c4.ctg.1	1866	25.9	0	.	n	.	0	A278G	SNP	278	278	A	963	963	G	53	G	52	.	.
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	322	fumC	469	469	99.15	fumC.l15.c4.ctg.1	1866	25.9	0	.	n	.	0	A317G	SNP	317	317	A	1002	1002	G	59	G	54	.	.
+gyrB.192	gyrB.192	0	0	assembled,assembled_into_one_contig,unique_contig	534	gyrB	460	460	100.0	gyrB.l15.c30.ctg.1	1659	48.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+icd.507	icd.507	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	390	icd	518	518	98.65	icd.l15.c30.ctg.1	1590	36.7	0	.	n	.	0	G280A	SNP	280	280	G	920	920	A	70	A	68	.	.
+icd.507	icd.507	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	390	icd	518	518	98.65	icd.l15.c30.ctg.1	1590	36.7	0	.	n	.	0	C298T	SNP	298	298	C	938	938	T	66	T	65	.	.
+icd.507	icd.507	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	390	icd	518	518	98.65	icd.l15.c30.ctg.1	1590	36.7	0	.	n	.	0	T406C	SNP	406	406	T	1046	1046	C	61	C	58	.	.
+icd.507	icd.507	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	390	icd	518	518	98.65	icd.l15.c30.ctg.1	1590	36.7	0	.	n	.	0	C439T	SNP	439	439	C	1079	1079	T	54	T	54	.	.
+icd.507	icd.507	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	390	icd	518	518	98.65	icd.l15.c30.ctg.1	1590	36.7	0	.	n	.	0	G484T	SNP	484	484	G	1124	1124	T	42	T	40	.	.
+icd.507	icd.507	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	390	icd	518	518	98.65	icd.l15.c30.ctg.1	1590	36.7	0	.	n	.	0	C511T	SNP	511	511	C	1151	1151	T	33	T	31	.	.
+icd.507	icd.507	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	390	icd	518	518	98.65	icd.l15.c30.ctg.1	1590	36.7	0	.	n	.	0	C514T	SNP	514	514	C	1154	1154	T	33	T	30	.	.
+mdh.636	mdh.636	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	476	mdh	452	452	99.78	mdh.l15.c30.ctg.1	1554	46.0	0	.	n	.	0	C111A	SNP	111	111	C	612	612	A	77	A	73	.	.
+purA.160	purA.160	0	0	assembled,assembled_into_one_contig,unique_contig	510	purA	478	478	100.0	purA.l6.c4.ctg.1	1586	48.3	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+recA.142	recA.142	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	566	recA	510	510	99.8	recA.l15.c17.ctg.1	1446	58.4	0	.	n	.	0	C445T	SNP	445	445	C	969	969	T	85	T	83	.	.

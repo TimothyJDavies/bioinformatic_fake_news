@@ -1,0 +1,10 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+adk.13	adk.13	0	0	19	366	adk	536	536	100.0	adk.l15.c4.ctg.1	1455	37.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+fumC.43	fumC.43	0	0	147	240	fumC	469	469	100.0	fumC.l15.c4.ctg.1	1280	27.9	0	HET	.	.	.	C329T	.	329	329	C	644	644	C	46	C,T	37,5	.	.
+gyrB.9	gyrB.9	0	0	19	420	gyrB	460	460	100.0	gyrB.l6.c17.ctg.1	1094	55.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+icd.36	icd.36	0	0	147	286	icd	518	518	100.0	icd.l15.c4.ctg.1	1393	30.7	0	HET	.	.	.	C370T	.	370	370	C	874	874	C	36	C,T	25,6	.	.
+mdh.30	mdh.30	0	0	19	406	mdh	452	452	100.0	mdh.l15.c4.ctg.1	1322	46.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+purA.44	purA.44	0	0	647	386	purA	478	478	100.0	purA.l15.c4.ctg.1	1358	42.4	0	HET	.	.	.	G83A	.	83	83	G	656	656	G	87	G,A	69,12	.	.
+purA.44	purA.44	0	0	647	386	purA	478	186	98.92	purA.l15.c4.ctg.2	238	1.3	0	.	n	.	0	T389C	SNP	389	389	T	97	97	C	2	C	1	.	.
+purA.44	purA.44	0	0	647	386	purA	478	186	98.92	purA.l15.c4.ctg.2	238	1.3	0	.	n	.	0	T447C	SNP	447	447	T	155	155	C	2	C	1	.	.
+recA.25	recA.25	0	0	19	322	recA	510	510	100.0	recA.l15.c4.ctg.1	1504	32.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.

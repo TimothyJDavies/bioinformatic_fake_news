@@ -1,0 +1,11 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	346	fumC	469	469	99.57	fumC.l6.c4.ctg.1	1504	34.3	0	.	n	.	0	A278G	SNP	278	278	A	849	849	G	54	G	53	.	.
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	346	fumC	469	469	99.57	fumC.l6.c4.ctg.1	1504	34.3	0	.	n	.	0	A317G	SNP	317	317	A	888	888	G	56	G	55	.	.
+gyrB.281	gyrB.281	0	0	assembled,assembled_into_one_contig,unique_contig	330	gyrB	460	460	100.0	gyrB.l15.c4.ctg.1	1599	30.9	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+icd.507	icd.507	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	358	icd	518	518	99.23	icd.l15.c30.ctg.1	1709	31.5	0	.	n	.	0	G280A	SNP	280	280	G	880	880	A	75	A	72	.	.
+icd.507	icd.507	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	358	icd	518	518	99.23	icd.l15.c30.ctg.1	1709	31.5	0	.	n	.	0	C337G	SNP	337	337	C	937	937	G	63	G	61	.	.
+icd.507	icd.507	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	358	icd	518	518	99.23	icd.l15.c30.ctg.1	1709	31.5	0	.	n	.	0	G484T	SNP	484	484	G	1084	1084	T	41	T	40	.	.
+icd.507	icd.507	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	358	icd	518	518	99.23	icd.l15.c30.ctg.1	1709	31.5	0	.	n	.	0	C511T	SNP	511	511	C	1111	1111	T	33	T	33	.	.
+mdh.636	mdh.636	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	548	mdh	452	452	99.78	mdh.l15.c4.ctg.1	1722	47.5	0	.	n	.	0	T402C	SNP	402	402	T	982	982	C	96	C	94	.	.
+purA.160	purA.160	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	464	purA	478	478	99.79	purA.l15.c4.ctg.1	1698	41.1	0	.	n	.	0	A470G	SNP	470	470	A	1136	1136	G	75	G	71	.	.
+recA.142	recA.142	0	0	assembled,assembled_into_one_contig,unique_contig	448	recA	510	510	100.0	recA.l15.c4.ctg.1	1749	38.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.

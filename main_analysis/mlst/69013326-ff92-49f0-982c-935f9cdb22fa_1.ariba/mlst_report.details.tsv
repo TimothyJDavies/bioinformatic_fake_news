@@ -1,0 +1,8 @@
+gene	allele	cov	pc	ctgs	depth	hetmin	hets
+adk	ND	.	.	.	.	.	.
+fumC	ND	.	.	.	.	.	.
+gyrB	331*	58.26	90.67	1	21.0	.	.
+icd	507*	100.0	91.7	1	9.7	.	.
+mdh	ND	.	.	.	.	.	.
+purA	294*	98.95	91.12	1	7.8	.	.
+recA	325*	100.0	92.75	1	17.9	.	.

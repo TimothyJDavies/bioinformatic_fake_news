@@ -1,0 +1,12 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+fumC.1012	fumC.1012	0	0	531	370	fumC	469	469	99.57	fumC.l15.c4.ctg.1	1592	34.7	0	.	n	.	0	A278G	SNP	278	278	A	883	883	G	68	G	65	.	.
+fumC.1012	fumC.1012	0	0	531	370	fumC	469	469	99.57	fumC.l15.c4.ctg.1	1592	34.7	0	.	n	.	0	A317G	SNP	317	317	A	922	922	G	71	G	70	.	.
+gyrB.281	gyrB.281	0	0	147	482	gyrB	460	460	100.0	gyrB.l15.c17.ctg.1	1755	40.8	0	HET	.	.	.	C186A	.	186	186	C	966	966	C	77	C,A	62,14	.	.
+gyrB.281	gyrB.281	0	0	147	482	gyrB	460	460	100.0	gyrB.l15.c17.ctg.1	1755	40.8	0	HET	.	.	.	T291C	.	291	291	T	1071	1071	T	75	T,C	58,15	.	.
+icd.507	icd.507	0	0	659	434	icd	518	518	99.23	icd.l15.c17.ctg.1	1530	41.9	0	.	n	.	0	G280A	SNP	280	280	G	981	981	A	78	A,G	61,14	.	.
+icd.507	icd.507	0	0	659	434	icd	518	518	99.23	icd.l15.c17.ctg.1	1530	41.9	0	.	n	.	0	C337G	SNP	337	337	C	1038	1038	G	85	G,C	68,15	.	.
+icd.507	icd.507	0	0	659	434	icd	518	518	99.23	icd.l15.c17.ctg.1	1530	41.9	0	.	n	.	0	G484T	SNP	484	484	G	1185	1185	T	49	T,G	30,15	.	.
+icd.507	icd.507	0	0	659	434	icd	518	518	99.23	icd.l15.c17.ctg.1	1530	41.9	0	.	n	.	0	C511T	SNP	511	511	C	1212	1212	T	40	T,C	24,14	.	.
+mdh.636	mdh.636	0	0	659	500	mdh	452	452	99.78	mdh.l15.c4.ctg.1	1687	44.3	0	.	n	.	0	T402C	SNP	402	402	T	990	990	C	84	C,T	62,19	.	.
+purA.160	purA.160	0	0	659	516	purA	478	478	99.79	purA.l6.c30.ctg.1	1755	44.0	0	.	n	.	0	A470G	SNP	470	470	A	1080	1080	G	73	G,A	59,12	.	.
+recA.142	recA.142	0	0	147	526	recA	510	510	100.0	recA.l6.c30.ctg.1	1824	43.2	0	HET	.	.	.	T97C	.	97	97	T	658	658	T	91	T,C	71,14	.	.

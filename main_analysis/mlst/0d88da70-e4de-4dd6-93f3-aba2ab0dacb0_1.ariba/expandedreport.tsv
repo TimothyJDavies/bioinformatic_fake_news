@@ -1,0 +1,16 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+adk.6	adk.6	0	0	assembled,assembled_into_one_contig,region_assembled_twice,has_variant	398	adk	536	536	100.0	adk.l15.c4.ctg.1	1204	45.9	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+adk.6	adk.6	0	0	assembled,assembled_into_one_contig,region_assembled_twice,has_variant	398	adk	536	305	98.36	adk.l15.c4.ctg.2	637	5.7	0	.	n	.	0	T322C	SNP	322	322	T	91	91	C	6	C,T	4,1	.	.
+adk.6	adk.6	0	0	assembled,assembled_into_one_contig,region_assembled_twice,has_variant	398	adk	536	305	98.36	adk.l15.c4.ctg.2	637	5.7	0	.	n	.	0	T346C	SNP	346	346	T	115	115	C	6	C,T	4,1	.	.
+adk.6	adk.6	0	0	assembled,assembled_into_one_contig,region_assembled_twice,has_variant	398	adk	536	305	98.36	adk.l15.c4.ctg.2	637	5.7	0	.	n	.	0	A454G	SNP	454	454	A	223	223	G	8	G	6	.	.
+adk.6	adk.6	0	0	assembled,assembled_into_one_contig,region_assembled_twice,has_variant	398	adk	536	305	98.36	adk.l15.c4.ctg.2	637	5.7	0	.	n	.	0	G460A	SNP	460	460	G	229	229	A	8	A	7	.	.
+adk.6	adk.6	0	0	assembled,assembled_into_one_contig,region_assembled_twice,has_variant	398	adk	536	305	98.36	adk.l15.c4.ctg.2	637	5.7	0	.	n	.	0	G526T	SNP	526	526	G	295	295	T	9	T	9	.	.
+fumC.31	fumC.31	0	0	assembled,assembled_into_one_contig,unique_contig	256	fumC	469	469	100.0	fumC.l15.c4.ctg.1	1358	28.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+gyrB.5	gyrB.5	0	0	assembled,assembled_into_one_contig,unique_contig,variants_suggest_collapsed_repeat	316	gyrB	460	460	100.0	gyrB.l6.c4.ctg.1	1267	37.2	0	HET	.	.	.	C291T	.	291	291	C	732	732	C	74	C,T	61,10	.	.
+gyrB.5	gyrB.5	0	0	assembled,assembled_into_one_contig,unique_contig,variants_suggest_collapsed_repeat	316	gyrB	460	460	100.0	gyrB.l6.c4.ctg.1	1267	37.2	0	HET	.	.	.	C180T	.	180	180	C	621	621	C	59	C,T	48,6	.	.
+gyrB.5	gyrB.5	0	0	assembled,assembled_into_one_contig,unique_contig,variants_suggest_collapsed_repeat	316	gyrB	460	460	100.0	gyrB.l6.c4.ctg.1	1267	37.2	0	HET	.	.	.	G333A	.	333	333	G	774	774	G	71	G,A	58,10	.	.
+icd.28	icd.28	0	0	assembled,assembled_into_one_contig,unique_contig	288	icd	518	518	100.0	icd.l6.c4.ctg.1	1553	28.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+mdh.1	mdh.1	0	0	assembled,assembled_into_one_contig,unique_contig,variants_suggest_collapsed_repeat	346	mdh	452	452	100.0	mdh.l15.c17.ctg.1	1175	43.5	0	HET	.	.	.	T3C	.	3	3	T	444	444	T	66	T,C	54,7	.	.
+mdh.1	mdh.1	0	0	assembled,assembled_into_one_contig,unique_contig,variants_suggest_collapsed_repeat	346	mdh	452	452	100.0	mdh.l15.c17.ctg.1	1175	43.5	0	HET	.	.	.	C294T	.	294	294	C	735	735	C	63	C,T	54,8	.	.
+purA.1	purA.1	0	0	assembled,assembled_into_one_contig,unique_contig	362	purA	478	478	100.0	purA.l6.c4.ctg.1	1172	46.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+recA.2	recA.2	0	0	assembled,assembled_into_one_contig,unique_contig	304	recA	510	510	100.0	recA.l15.c4.ctg.1	1447	31.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.

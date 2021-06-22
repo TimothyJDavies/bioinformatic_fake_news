@@ -1,0 +1,17 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+fumC.1012	fumC.1012	0	0	531	246	fumC	469	469	99.36	fumC.l15.c4.ctg.1	1785	20.6	0	.	n	.	0	A206G	SNP	206	206	A	951	951	G	46	G	44	.	.
+fumC.1012	fumC.1012	0	0	531	246	fumC	469	469	99.36	fumC.l15.c4.ctg.1	1785	20.6	0	.	n	.	0	A278G	SNP	278	278	A	1023	1023	G	39	G	38	.	.
+fumC.1012	fumC.1012	0	0	531	246	fumC	469	469	99.36	fumC.l15.c4.ctg.1	1785	20.6	0	.	n	.	0	A317G	SNP	317	317	A	1062	1062	G	36	G	35	.	.
+gyrB.193	gyrB.193	0	0	19	368	gyrB	460	460	100.0	gyrB.l15.c30.ctg.1	1575	35.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+icd.804	icd.804	0	0	531	278	icd	518	518	98.65	icd.l6.c4.ctg.1	1604	26.2	0	.	n	.	0	T223C	SNP	223	223	T	757	757	C	50	C	49	.	.
+icd.804	icd.804	0	0	531	278	icd	518	518	98.65	icd.l6.c4.ctg.1	1604	26.2	0	.	n	.	0	T226C	SNP	226	226	T	760	760	C	50	C	48	.	.
+icd.804	icd.804	0	0	531	278	icd	518	518	98.65	icd.l6.c4.ctg.1	1604	26.2	0	.	n	.	0	C298T	SNP	298	298	C	832	832	T	55	T	54	.	.
+icd.804	icd.804	0	0	531	278	icd	518	518	98.65	icd.l6.c4.ctg.1	1604	26.2	0	.	n	.	0	T406C	SNP	406	406	T	940	940	C	54	C	53	.	.
+icd.804	icd.804	0	0	531	278	icd	518	518	98.65	icd.l6.c4.ctg.1	1604	26.2	0	.	n	.	0	C439T	SNP	439	439	C	973	973	T	48	T	48	.	.
+icd.804	icd.804	0	0	531	278	icd	518	518	98.65	icd.l6.c4.ctg.1	1604	26.2	0	.	n	.	0	G484T	SNP	484	484	G	1018	1018	T	34	T	34	.	.
+icd.804	icd.804	0	0	531	278	icd	518	518	98.65	icd.l6.c4.ctg.1	1604	26.2	0	.	n	.	0	C511T	SNP	511	511	C	1045	1045	T	29	T	29	.	.
+mdh.636	mdh.636	0	0	19	478	mdh	452	452	100.0	mdh.l15.c30.ctg.1	1900	37.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+purA.160	purA.160	0	0	531	398	purA	478	478	99.79	purA.l15.c4.ctg.1	1786	33.5	0	.	n	.	0	T335A	SNP	335	335	T	971	971	A	74	A,T	70,1	.	.
+recA.283	recA.283	0	0	531	416	recA	510	510	99.41	recA.l15.c4.ctg.1	2030	30.9	0	.	n	.	0	T376C	SNP	376	376	T	1108	1108	C	75	C	73	.	.
+recA.283	recA.283	0	0	531	416	recA	510	510	99.41	recA.l15.c4.ctg.1	2030	30.9	0	.	n	.	0	T400C	SNP	400	400	T	1132	1132	C	70	C	70	.	.
+recA.283	recA.283	0	0	531	416	recA	510	510	99.41	recA.l15.c4.ctg.1	2030	30.9	0	.	n	.	0	C445T	SNP	445	445	C	1177	1177	T	57	T	56	.	.

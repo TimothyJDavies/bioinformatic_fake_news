@@ -1,0 +1,14 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	218	fumC	469	469	99.15	fumC.l6.c30.ctg.1	1749	18.8	0	.	n	.	0	A206G	SNP	206	206	A	855	855	G	35	G	35	.	.
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	218	fumC	469	469	99.15	fumC.l6.c30.ctg.1	1749	18.8	0	.	n	.	0	A278G	SNP	278	278	A	927	927	G	42	G	41	.	.
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	218	fumC	469	469	99.15	fumC.l6.c30.ctg.1	1749	18.8	0	.	n	.	0	G281A	SNP	281	281	G	930	930	A	42	A	40	.	.
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	218	fumC	469	469	99.15	fumC.l6.c30.ctg.1	1749	18.8	0	.	n	.	0	A317G	SNP	317	317	A	966	966	G	44	G	43	.	.
+gyrB.193	gyrB.193	0	0	assembled,assembled_into_one_contig,unique_contig	282	gyrB	460	460	100.0	gyrB.l15.c4.ctg.1	1371	30.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+icd.804	icd.804	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	264	icd	518	518	99.42	icd.l15.c4.ctg.1	1911	20.8	0	.	n	.	0	T223C	SNP	223	223	T	787	787	C	45	C	43	.	.
+icd.804	icd.804	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	264	icd	518	518	99.42	icd.l15.c4.ctg.1	1911	20.8	0	.	n	.	0	T226C	SNP	226	226	T	790	790	C	46	C	44	.	.
+icd.804	icd.804	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	264	icd	518	518	99.42	icd.l15.c4.ctg.1	1911	20.8	0	.	n	.	0	G379C	SNP	379	379	G	943	943	C	43	C	41	.	.
+mdh.636	mdh.636	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	372	mdh	452	452	99.56	mdh.l15.c4.ctg.1	1620	34.5	0	.	n	.	0	C150T	SNP	150	150	C	740	740	T	66	T,C	64,1	.	.
+mdh.636	mdh.636	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	372	mdh	452	452	99.56	mdh.l15.c4.ctg.1	1620	34.5	0	.	n	.	0	G246T	SNP	246	246	G	836	836	T	74	T	71	.	.
+purA.561	purA.561	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	312	purA	478	478	99.58	purA.l15.c30.ctg.1	1410	32.4	0	.	n	.	0	T101C	SNP	101	101	T	556	556	C	69	C	65	.	.
+purA.561	purA.561	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	312	purA	478	478	99.58	purA.l15.c30.ctg.1	1410	32.4	0	.	n	.	0	C174T	SNP	174	174	C	629	629	T	54	T	54	.	.
+recA.142	recA.142	0	0	assembled,assembled_into_one_contig,unique_contig	318	recA	510	510	100.0	recA.l15.c4.ctg.1	1483	31.9	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.

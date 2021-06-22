@@ -1,0 +1,16 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+.	.	.	.	1024	96	adk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+fumC.1012	fumC.1012	0	0	531	404	fumC	469	469	99.57	fumC.l6.c30.ctg.1	1499	40.5	0	.	n	.	0	A278G	SNP	278	278	A	768	768	G	72	G	71	.	.
+fumC.1012	fumC.1012	0	0	531	404	fumC	469	469	99.57	fumC.l6.c30.ctg.1	1499	40.5	0	.	n	.	0	A317G	SNP	317	317	A	807	807	G	76	G	73	.	.
+gyrB.193	gyrB.193	0	0	19	458	gyrB	460	460	100.0	gyrB.l15.c4.ctg.1	1527	45.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+icd.507	icd.507	0	0	531	396	icd	518	518	98.84	icd.l15.c17.ctg.1	1594	37.5	0	.	n	.	0	G280A	SNP	280	280	G	846	846	A	85	A	80	.	.
+icd.507	icd.507	0	0	531	396	icd	518	518	98.84	icd.l15.c17.ctg.1	1594	37.5	0	.	n	.	0	C298T	SNP	298	298	C	864	864	T	85	T	81	.	.
+icd.507	icd.507	0	0	531	396	icd	518	518	98.84	icd.l15.c17.ctg.1	1594	37.5	0	.	n	.	0	T406C	SNP	406	406	T	972	972	C	60	C	54	.	.
+icd.507	icd.507	0	0	531	396	icd	518	518	98.84	icd.l15.c17.ctg.1	1594	37.5	0	.	n	.	0	C439T	SNP	439	439	C	1005	1005	T	48	T	45	.	.
+icd.507	icd.507	0	0	531	396	icd	518	518	98.84	icd.l15.c17.ctg.1	1594	37.5	0	.	n	.	0	C511T	SNP	511	511	C	1077	1077	T	29	T	28	.	.
+icd.507	icd.507	0	0	531	396	icd	518	518	98.84	icd.l15.c17.ctg.1	1594	37.5	0	.	n	.	0	C514T	SNP	514	514	C	1080	1080	T	27	T	26	.	.
+mdh.636	mdh.636	0	0	19	520	mdh	452	452	100.0	mdh.l15.c30.ctg.1	1666	47.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+purA.160	purA.160	0	0	531	446	purA	478	478	99.37	purA.l15.c4.ctg.1	1513	44.4	0	.	n	.	0	C128T	SNP	128	128	C	667	667	T	81	T	77	.	.
+purA.160	purA.160	0	0	531	446	purA	478	478	99.37	purA.l15.c4.ctg.1	1513	44.4	0	.	n	.	0	C269T	SNP	269	269	C	808	808	T	80	T	77	.	.
+purA.160	purA.160	0	0	531	446	purA	478	478	99.37	purA.l15.c4.ctg.1	1513	44.4	0	.	n	.	0	A470G	SNP	470	470	A	1009	1009	G	83	G	79	.	.
+recA.142	recA.142	0	0	19	506	recA	510	510	100.0	recA.l15.c4.ctg.1	1582	47.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.

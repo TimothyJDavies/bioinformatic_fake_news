@@ -1,0 +1,29 @@
+ARIBA run with this command:
+/usr/local/bin/ariba run ariba_db --assembly_cov 50 --nucmer_min_id 90 --nucmer_min_len 20 1d0ede66-c6bc-461a-a372-48f6d2b37cc7_1_1.fq 1d0ede66-c6bc-461a-a372-48f6d2b37cc7_1_2.fq 1d0ede66-c6bc-461a-a372-48f6d2b37cc7_1.ariba
+from this directory: /tmp/nxf.1lf2ypw3LZ
+
+ARIBA version: 2.11.1
+
+External dependencies:
+bowtie2	2.2.9	/bowtie2-2.2.9/bowtie2
+cdhit	4.6	/usr/bin/cdhit-est
+nucmer	3.1	/usr/bin/nucmer
+spades	NA	NOT_FOUND
+
+External dependencies OK: True
+
+Python version:
+3.5.3 (default, Sep 14 2017, 22:58:41) 
+[GCC 6.3.0 20170406]
+
+Python packages:
+ariba	2.11.1	/usr/local/lib/python3.5/dist-packages/ariba-2.11.1-py3.5-linux-x86_64.egg/ariba/__init__.py
+bs4	4.6.0	/usr/local/lib/python3.5/dist-packages/beautifulsoup4-4.6.0-py3.5.egg/bs4/__init__.py
+dendropy	4.3.0	/usr/local/lib/python3.5/dist-packages/DendroPy-4.3.0-py3.5.egg/dendropy/__init__.py
+pyfastaq	3.17.0	/usr/local/lib/python3.5/dist-packages/pyfastaq-3.17.0-py3.5.egg/pyfastaq/__init__.py
+pymummer	0.10.3	/usr/local/lib/python3.5/dist-packages/pymummer-0.10.3-py3.5.egg/pymummer/__init__.py
+pysam	0.14	/usr/local/lib/python3.5/dist-packages/pysam-0.14-py3.5-linux-x86_64.egg/pysam/__init__.py
+
+Python packages OK: True
+
+Everything looks OK: True

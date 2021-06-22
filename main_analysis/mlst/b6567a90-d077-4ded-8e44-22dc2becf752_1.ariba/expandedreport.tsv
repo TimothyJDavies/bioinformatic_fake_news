@@ -1,0 +1,8 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+adk.218	adk.218	0	0	assembled,assembled_into_one_contig,unique_contig	272	adk	536	536	100.0	adk.l15.c4.ctg.1	1402	29.1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+fumC.755	fumC.755	0	0	assembled,assembled_into_one_contig,unique_contig	220	fumC	469	469	100.0	fumC.l15.c4.ctg.1	1482	22.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+gyrB.157	gyrB.157	0	0	assembled,assembled_into_one_contig,unique_contig	202	gyrB	460	460	100.0	gyrB.l6.c4.ctg.1	1200	25.0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+icd.6	icd.6	0	0	assembled,assembled_into_one_contig,unique_contig	244	icd	518	518	100.0	icd.l15.c17.ctg.1	1148	30.9	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+mdh.5	mdh.5	0	0	assembled,assembled_into_one_contig,unique_contig	252	mdh	452	452	100.0	mdh.l6.c30.ctg.1	1636	23.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+purA.1	purA.1	0	0	assembled,assembled_into_one_contig,unique_contig	266	purA	478	478	100.0	purA.l15.c4.ctg.1	1466	27.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+recA.4	recA.4	0	0	assembled,assembled_into_one_contig,unique_contig	278	recA	510	510	100.0	recA.l15.c4.ctg.1	1569	26.5	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.

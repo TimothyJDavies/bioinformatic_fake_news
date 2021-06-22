@@ -1,0 +1,11 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+adk.13	adk.13	0	0	assembled,assembled_into_one_contig,unique_contig	458	adk	536	536	100.0	adk.l15.c4.ctg.1	1917	35.6	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+fumC.13	fumC.13	0	0	assembled,assembled_into_one_contig,unique_contig,variants_suggest_collapsed_repeat	388	fumC	469	469	100.0	fumC.l6.c17.ctg.1	1557	37.2	0	HET	.	.	.	T120C	.	120	120	T	729	729	T	81	T,C	67,12	.	.
+fumC.13	fumC.13	0	0	assembled,assembled_into_one_contig,unique_contig,variants_suggest_collapsed_repeat	388	fumC	469	469	100.0	fumC.l6.c17.ctg.1	1557	37.2	0	HET	.	.	.	A459G	.	459	459	A	1068	1068	A	57	A,G	44,10	.	.
+fumC.13	fumC.13	0	0	assembled,assembled_into_one_contig,unique_contig,variants_suggest_collapsed_repeat	388	fumC	469	469	100.0	fumC.l6.c17.ctg.1	1557	37.2	0	HET	.	.	.	A380G	.	380	380	A	989	989	A	55	A,G	46,9	.	.
+fumC.13	fumC.13	0	0	assembled,assembled_into_one_contig,unique_contig,variants_suggest_collapsed_repeat	388	fumC	469	469	100.0	fumC.l6.c17.ctg.1	1557	37.2	0	HET	.	.	.	C63T	.	63	63	C	672	672	C	77	C,T	67,9	.	.
+gyrB.9	gyrB.9	0	0	assembled,assembled_into_one_contig,unique_contig	492	gyrB	460	460	100.0	gyrB.l15.c4.ctg.1	1808	40.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+icd.13	icd.13	0	0	assembled,assembled_into_one_contig,unique_contig	432	icd	518	518	100.0	icd.l15.c4.ctg.1	1882	34.2	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+mdh.16	mdh.16	0	0	assembled,assembled_into_one_contig,unique_contig	452	mdh	452	452	100.0	mdh.l15.c4.ctg.1	1736	38.9	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+purA.10	purA.10	0	0	assembled,assembled_into_one_contig,unique_contig	476	purA	478	478	100.0	purA.l15.c4.ctg.1	1755	40.7	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+recA.9	recA.9	0	0	assembled,assembled_into_one_contig,unique_contig	424	recA	510	510	100.0	recA.l6.c17.ctg.1	1557	40.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.

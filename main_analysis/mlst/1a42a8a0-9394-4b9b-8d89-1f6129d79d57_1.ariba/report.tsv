@@ -1,0 +1,10 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+fumC.1012	fumC.1012	0	0	531	326	fumC	469	469	99.36	fumC.l15.c4.ctg.1	1784	27.4	0	.	n	.	0	A206G	SNP	206	206	A	826	826	G	69	G	65	.	.
+fumC.1012	fumC.1012	0	0	531	326	fumC	469	469	99.36	fumC.l15.c4.ctg.1	1784	27.4	0	.	n	.	0	A278G	SNP	278	278	A	898	898	G	65	G	62	.	.
+fumC.1012	fumC.1012	0	0	531	326	fumC	469	469	99.36	fumC.l15.c4.ctg.1	1784	27.4	0	.	n	.	0	A317G	SNP	317	317	A	937	937	G	67	G	65	.	.
+gyrB.281	gyrB.281	0	0	19	384	gyrB	460	460	100.0	gyrB.l15.c17.ctg.1	1610	35.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+icd.507	icd.507	0	0	19	404	icd	518	518	100.0	icd.l15.c30.ctg.1	1709	35.4	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+mdh.636	mdh.636	0	0	19	464	mdh	452	452	100.0	mdh.l15.c4.ctg.1	1707	40.8	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+purA.159	purA.159	0	0	531	404	purA	478	478	99.79	purA.l15.c17.ctg.1	1641	37.0	0	.	n	.	0	T90C	SNP	90	90	T	659	659	C	85	C	81	.	.
+recA.142	recA.142	0	0	531	366	recA	510	510	99.61	recA.l15.c4.ctg.1	1560	35.2	0	.	n	.	0	T97C	SNP	97	97	T	624	624	C	68	C,T	60,4	.	.
+recA.142	recA.142	0	0	531	366	recA	510	510	99.61	recA.l15.c4.ctg.1	1560	35.2	0	.	n	.	0	C400T	SNP	400	400	C	927	927	T	65	T,C	61,2	.	.

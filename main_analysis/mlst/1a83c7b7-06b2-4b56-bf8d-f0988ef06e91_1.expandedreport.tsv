@@ -1,0 +1,10 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	308	fumC	469	469	99.36	fumC.l15.c4.ctg.1	1929	24.0	0	.	n	.	0	G4A	SNP	4	4	G	677	677	A	40	A	37	.	.
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	308	fumC	469	469	99.36	fumC.l15.c4.ctg.1	1929	24.0	0	.	n	.	0	A278G	SNP	278	278	A	951	951	G	53	G	52	.	.
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	308	fumC	469	469	99.36	fumC.l15.c4.ctg.1	1929	24.0	0	.	n	.	0	A317G	SNP	317	317	A	990	990	G	55	G	53	.	.
+gyrB.193	gyrB.193	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	366	gyrB	460	460	99.78	gyrB.l15.c4.ctg.1	1992	27.7	0	.	n	.	0	C351T	SNP	351	351	C	1129	1129	T	66	T	65	.	.
+icd.507	icd.507	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	456	icd	518	518	99.81	icd.l15.c17.ctg.1	1698	40.5	0	.	n	.	0	G280A	SNP	280	280	G	904	904	A	86	A	84	.	.
+mdh.636	mdh.636	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	444	mdh	452	452	99.78	mdh.l15.c17.ctg.1	1580	42.0	0	.	n	.	0	T402C	SNP	402	402	T	982	982	C	73	C	72	.	.
+purA.160	purA.160	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	392	purA	478	478	99.58	purA.l6.c4.ctg.1	1849	32.0	0	.	n	.	0	T44C	SNP	44	44	T	678	678	C	57	C,T	55,1	.	.
+purA.160	purA.160	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	392	purA	478	478	99.58	purA.l6.c4.ctg.1	1849	32.0	0	.	n	.	0	C47T	SNP	47	47	C	681	681	T	56	T,C	54,1	.	.
+recA.142	recA.142	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	414	recA	510	510	99.8	recA.l15.c4.ctg.1	1630	37.6	0	.	n	.	0	C400T	SNP	400	400	C	857	857	T	60	T	60	.	.

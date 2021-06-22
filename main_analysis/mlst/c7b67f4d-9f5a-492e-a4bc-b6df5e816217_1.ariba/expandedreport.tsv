@@ -1,0 +1,11 @@
+#ariba_ref_name	ref_name	gene	var_only	flag	reads	cluster	ref_len	ref_base_assembled	pc_ident	ctg	ctg_len	ctg_cov	known_var	var_type	var_seq_type	known_var_change	has_known_var	ref_ctg_change	ref_ctg_effect	ref_start	ref_end	ref_nt	ctg_start	ctg_end	ctg_nt	smtls_total_depth	smtls_nts	smtls_nts_depth	var_description	free_text
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	444	fumC	469	469	99.36	fumC.l15.c17.ctg.1	1371	47.8	0	.	n	.	0	A278G	SNP	278	278	A	739	739	G	81	G	79	.	.
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	444	fumC	469	469	99.36	fumC.l15.c17.ctg.1	1371	47.8	0	.	n	.	0	G281A	SNP	281	281	G	742	742	A	82	A	79	.	.
+fumC.1012	fumC.1012	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	444	fumC	469	469	99.36	fumC.l15.c17.ctg.1	1371	47.8	0	.	n	.	0	A317G	SNP	317	317	A	778	778	G	93	G	89	.	.
+gyrB.193	gyrB.193	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	544	gyrB	460	460	99.78	gyrB.l15.c30.ctg.1	1540	52.8	0	.	n	.	0	G42A	SNP	42	42	G	550	550	A	79	A	73	.	.
+icd.804	icd.804	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	490	icd	518	518	99.61	icd.l15.c30.ctg.1	1606	45.8	0	.	n	.	0	T160C	SNP	160	160	T	652	652	C	87	C	85	.	.
+icd.804	icd.804	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	490	icd	518	518	99.61	icd.l15.c30.ctg.1	1606	45.8	0	.	n	.	0	G217A	SNP	217	217	G	709	709	A	91	A	90	.	.
+mdh.636	mdh.636	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	668	mdh	452	452	99.78	mdh.l15.c30.ctg.1	1546	64.6	0	.	n	.	0	C37T	SNP	37	37	C	577	577	T	123	T	116	.	.
+purA.159	purA.159	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	574	purA	478	478	99.79	purA.l15.c4.ctg.1	1416	60.5	0	.	n	.	0	T90C	SNP	90	90	T	571	571	C	110	C	107	.	.
+recA.142	recA.142	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	560	recA	510	510	99.61	recA.l6.c30.ctg.1	1659	50.3	0	.	n	.	0	C400T	SNP	400	400	C	1031	1031	T	116	T,C	110,1	.	.
+recA.142	recA.142	0	0	assembled,assembled_into_one_contig,unique_contig,has_variant	560	recA	510	510	99.61	recA.l6.c30.ctg.1	1659	50.3	0	.	n	.	0	C445T	SNP	445	445	C	1076	1076	T	111	T	106	.	.
